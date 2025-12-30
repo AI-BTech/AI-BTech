@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/aibotics"><img src="./devcard.png" width="356" alt="Joseph Rivera's Dev Card"/></a>
+I am an **Avid** SelfHoster and Linux user.
+for selfhosting, i use:
+* 
