@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I just got my Non profit to exist with Hack Club!
+[my website](https://rmroot.pages.dev/)
+# I just got my Non profit to exist with Hack Club!
+More info on the nonprofit soon
+I do a lot of cybersecuriy, online privacy and safety, etc.
