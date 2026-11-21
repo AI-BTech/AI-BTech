@@ -14,16 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an **Avid** SelfHoster and Linux user.
-for selfhosting, i use:
-* UmbrelOS with:
-    * Home Assistant
-    * Immich
-    * Blinko
-    * Tailscale
- and for Linux i use:
-* Bazzite heavily modded on **Lenovo Leigon Go**
-* Ubuntu on **Surface Laptop Studio**
-  * i *used* to use Gardua Linux Dra420nized on it, but i switched to Ubuntu for gnome and for stability, since it feels faster.
- * When i finish building my custom SBC desktop, i'll use:
-     * Gardua Linux Dra420nized
+I just got my Non profit to exist with Hack Club!
